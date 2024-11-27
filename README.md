@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mohammadsajjadmohebbi
+- I’m software developer and intersted web develovping
 🔧 Technologies:
 - Python
 - 🌱 I’m currently learning:
